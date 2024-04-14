@@ -14,4 +14,4 @@
 
 这里我将模型下载到了`/root/work/modes`目录下
 
-![all text](image.img2.png)
+![all text](image/img2.png)
