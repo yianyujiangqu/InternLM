@@ -8,4 +8,4 @@
 ### 2.1 **环境部署**
 这里是在开发机进行的部署
 
-![alt text](image/img1.jpg)
+![alt text](image/img1.png)
