@@ -15,3 +15,15 @@
 这里我将模型下载到了`/root/work/modes`目录下
 
 ![all text](image/img2.png)
+
+### 2.3 **执行cli_demo**
+脚本填充如下：
+![all text](image/img3.png)
+
+执行命令如
+```python /root/work/demo/cli_demo.py```
+
+等待模型加载完成，键入内容如：
+```请创作一个 300 字的睡前小故事```
+效果如下：
+![all text](image/img4.png)
