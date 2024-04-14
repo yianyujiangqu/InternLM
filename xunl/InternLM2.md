@@ -4,7 +4,7 @@
 - **部署 `InternLM2-Chat-1.8B` 模型**
 - **部署实战营优秀作品`八戒-Chat-1.8B`模型**
 
-## 2 **开始部署**
+## 2 **开始部署`InternLM2-Chat-1.8B`模型**
 
 ### 2.1 **环境部署**
 这里是在开发机进行的部署
@@ -32,3 +32,7 @@ python /root/work/demo/cli_demo.py
 ```
 效果如下：
 ![all text](image/img4.png)
+
+### 3 **部署`八戒-Chat-1.8B`模型**
+
+使用git获取项目
