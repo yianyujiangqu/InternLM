@@ -10,4 +10,4 @@
 
 ![alt text](image/img1.png)
 
-### 2.2 **下载模型`模型**
+### 2.2 **下载模型`InternLM2-Chat-1.8B`模型**
