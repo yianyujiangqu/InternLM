@@ -33,6 +33,15 @@ python /root/work/demo/cli_demo.py
 效果如下：
 ![all text](image/img4.png)
 
-### 3 **部署`八戒-Chat-1.8B`模型**
+## 3 **部署`八戒-Chat-1.8B`模型**
+### 3.1 **配置环境**
+在上一个项目里环境是已经有了的
+### 3.2 **使用git获取项目**
+### 3.3 **下载模型运行`Chat-八戒`demo**
+启动
+```
+streamlit run /root/Tutorial/helloworld/bajie_chat.py --server.address 127.0.0.1 --server.port 6006
+```
+配置本地端口映射，打开并键入指令之后如图：
 
-使用git获取项目
+![all text](image/img5.png)
