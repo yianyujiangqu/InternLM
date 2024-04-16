@@ -1,6 +1,7 @@
 # 书生·浦语第二节
-官方地址[InternLM/Tutorial](https://github.com/InternLM/Tutorial/tree/camp2?tab=readme-ov-file)
-参考[Tutorial](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md)文档
+- 官方地址[InternLM/Tutorial](https://github.com/InternLM/Tutorial/tree/camp2?tab=readme-ov-file)
+
+- 参考[Tutorial](https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md)文档
 
 ## 1 **主要内容**
 - **部署 `InternLM2-Chat-1.8B` 模型**
