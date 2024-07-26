@@ -28,3 +28,15 @@ wordcount(text)
 ```
 ### 在开发机安装python插件
 ![all text](image/vs_1.png)
+### 进行着个debug断点调试
+![all text](image/vs_2.png)
+### 配置python远程调试：
+![all text](image/vs_3.png)
+### 命令行进行调试
+```
+python -m debugpy --listen 5678 --wait-for-client ./wordcount.py
+```
+![all text](image/vs_4.png)
+在系统配置文件里修改添加命令`alias pyd='python -m debugpy --wait-for-client --listen 5678'`
+重载`source ~/.bashrc`
+
