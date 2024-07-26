@@ -27,3 +27,4 @@ wordcount(text)
 {'hello': 0, 'world': 0, 'this': 1, 'is': 4, 'an': 5, 'example': 0, 'word': 0, 'count': 0, 'fun': 0, 'it': 10, 'to': 3, 'words': 0, 'yes': 0}
 ```
 ### 在开发机安装好python插件
+![all text](image/vs_1.png)
