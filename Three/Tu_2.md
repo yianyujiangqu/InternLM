@@ -1,5 +1,5 @@
 ### Python实现wordcount
-#### 如下代码
+#### 如下代码：
 ```python
 text = """
 Got this panda plush toy for my daughter's birthday,
@@ -20,4 +20,9 @@ def wordcount(text):
     print(tabd)
     
 wordcount(text)
+```
+执行结果为：
+```
+,got,this,panda,plush,toy,for,my,daughter,is,birthday,,who,loves,it,and,takes,it,everywhere,,it,is,soft,and,super,cute,,and,its,face,has,a,friendly,look,,it,is,a,bit,small,for,what,i,paid,though,,i,think,there,might,be,other,options,that,are,bigger,for,the,same,price,,it,arrived,a,day,earlier,than,expected,,so,i,got,to,play,with,it,myself,before,i,gave,it,to,her,,
+{'hello': 0, 'world': 0, 'this': 1, 'is': 4, 'an': 5, 'example': 0, 'word': 0, 'count': 0, 'fun': 0, 'it': 10, 'to': 3, 'words': 0, 'yes': 0}
 ```
