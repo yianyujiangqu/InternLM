@@ -5,3 +5,5 @@
 ![all text](image/vs.png)
 ### vscode终端使用`conda create -n demo python=3.10`创建conda环境
 ![all text](image/vs_conda.png)
+### 创建成功并激活环境
+![all text](image/vs_conda_activate.png)
